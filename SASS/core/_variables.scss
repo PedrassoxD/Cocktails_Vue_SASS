@@ -1,0 +1,91 @@
+/* Medias para dispositivos */
+
+$mediaMovil: 360px;
+$media500: 500px;
+$media576: 576px;
+$media600: 600px;
+$media700: 700px;
+$mediaTablet: 768px;
+$media768: 768px;
+$media800: 800px;
+$media992: 992px;
+$media1000: 1000px;
+$mediaDesktop: 1280px;
+$media40rem: 40rem;
+$media56rem: 56rem;
+
+/* Posiciones */
+
+$positionR: relative;
+$positionA: absolute;
+
+/* Anchos y altos */
+
+$width100: 100%;
+$height100: 100%;
+$width50: 50%;
+$height50: 50%;
+
+/* Background */
+
+$bgRepeat: no-repeat;
+
+/* Display */
+
+$displayFlex: flex;
+$displayGrid: grid;
+
+/* Overflow */
+
+$overflowH: hidden;
+
+/* Variables Font */
+
+$tituloSize: 50px;
+$tituloMarginT: 50px;
+$tituloCockSize: 2em;
+$tituloAbt: 35px;
+$subtituloSize: 25px;
+$sizeText: 16px;
+$lineHText: 20px;
+$fontWeigthText400: 400;
+$colorText: #ecf0f1;
+$fFamilyText: 'Open Sans',
+sans-serif;
+$fontCalibri: Calibri;
+
+/* Variables contenedores */
+
+$maxWidth540: 540px;
+$maxWidth720: 720px;
+$maxWidth960: 960px;
+$maxWidth1140: 1140px;
+$marginR: auto;
+$marginL: auto;
+
+/* Variables Boton RandomCocktail */
+
+$bpadding10: 10px;
+$bfontW: 600;
+$bfontS: 20px;
+$bcolor: #ffffff;
+$bBgColor: #1883ba;
+$bBorderR: 6px;
+$bBorder: 2px solid #0016b0;
+
+/* Variables Cards */
+
+$cflexdirColumn: column;
+$cAlignSelfend: end;
+$cAlignItemsCenter: center;
+$cVerticalAlginMiddle: middle;
+$span: span;
+
+/* Variables scrollUp */
+
+$scrBottom20: 20px;
+$scrRight20: 20px;
+$scrWdth50: 50px;
+$scrHight50: 50px;
+$scrBgImg: url("../../assets/img/irArriba2.png");
+$scrBgSize: cover;
